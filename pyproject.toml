@@ -13,6 +13,7 @@ find_rejects = "find_rejects.scripts.find_rejects:main"
 [tool.poetry.dependencies]
 python = "^3.9"
 requests = "^2.25.1"
+paramiko = "^2.7.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

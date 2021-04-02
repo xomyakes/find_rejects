@@ -1,0 +1,2 @@
+*.DS_Store
+*scripts/__pycache__/find_rejects.cpython-39.pyc
